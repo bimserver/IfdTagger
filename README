@@ -1,3 +1,2 @@
-BIMserver.org plugin for tagging IFC object with IFD Library ID's
-
-The IfdTagger plugin for bimserver 1.1 can be found here: https://github.com/catenda/IfdTagger
+Work in progress for tagging IFC objects in the BIMserver.org database.
+Intention is to create a generic tagger for IFD (BSDD) and other concept/objectlibraries. 
